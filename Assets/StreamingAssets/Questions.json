@@ -1,0 +1,92 @@
+{
+    "Questions":
+    [
+         {
+            "id": 0,
+            "name_ru": "Правда ли, что выше головы не прыгнешь?",
+            "name_eng": "Is it true that you won 't jump above your head?",
+            "name_kz": "Басынан жоғары секірмейсің бе?",
+            "right_answer_id": 0,
+            "options":[
+                {
+                    "id":0,
+                    "name_ru": "Да",
+                    "name_eng": "Yes",
+                    "name_kz": "Иә"
+                },
+                {
+                    "id":1,
+                    "name_ru": "Нет",
+                    "name_eng": "No",
+                    "name_kz": "Жоқ"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name_ru": "Столица Казахстана?",
+            "name_eng": "Capital of Kazakhstan?",
+            "name_kz": "Қазақстанның Астанасы?",
+            "right_answer_id": 1,
+            "options":[
+                {
+                    "id":0,
+                    "name_ru": "Астана",
+                    "name_eng": "Astana",
+                    "name_kz": "Астана"
+                },
+                {
+                    "id":1,
+                    "name_ru": "Нур-Султан",
+                    "name_eng": "Nur-Sultan",
+                    "name_kz": "Нұр-Сұлтан"
+                },
+                {
+                    "id":2,
+                    "name_ru": "Алматы",
+                    "name_eng": "Almaty",
+                    "name_kz": "Алматы"
+                }
+            ]
+        },
+        {
+        "id": 2,
+        "name_ru": "Что упало Ньютону на голову?",
+        "name_eng": "What fell on Newton 's head?",
+        "name_kz": "Ньютон басына не түсті?",
+        "right_answer_id": 4,
+        "options":[
+            {
+                "id":0,
+                "name_ru": "Персик",
+                "name_eng": "Peach",
+                "name_kz": "Шабдалы"
+            },
+            {
+		"id":1,
+                "name_ru": "Груша",
+                "name_eng": "Pear",
+                "name_kz": "Алмұрт"
+            },
+            {
+                "id":2,
+                "name_ru": "Ананас",
+                "name_eng": "Pineapple",
+                "name_kz": "Ананас"
+            },
+            {
+                "id":3,
+                "name_ru": "Апельсин",
+                "name_eng": "Orange",
+                "name_kz": "Апельсин"
+            },
+            {
+                "id":4,
+                "name_ru": "Яблоко",
+                "name_eng": "Apple",
+                "name_kz": "Алма"
+            }
+        ]
+        }
+    ]
+}
